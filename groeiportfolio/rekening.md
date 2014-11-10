@@ -2,7 +2,7 @@
 
 ## 1. Research - 3G
 
-Tijdsinvestering: ~ 25 uren
+Tijdsinvestering: ~ 30 uren
 
 ### 1.1 Leerdoelen:
 
@@ -12,7 +12,7 @@ Tijdsinvestering: ~ 25 uren
 
 ### 1.2 Bewijsvoering
 
-**Leerdoel 1, 2 en 3:**
+**Leerdoel 1, 2 en 3**
 
 1. Begonnen met een idee dat vanuit de eerste ‘strategic intake’ is ontstaan, waarna hieruit een concept vloeide. Hieruit ontstonden een aantal vragen die beantwoord moesten worden om het concept goed te kunnen uitwerken.  
    *[http://i.imgur.com/XUBjcHu.png](http://i.imgur.com/XUBjcHu.png)*
@@ -26,7 +26,23 @@ Tijdsinvestering: ~ 30 uren
 
 ### 2.1 Leerdoelen
 
+1. Binnen een vaststaand concept toch een eigen concept/draai kunnen ontwikkelen
+2. Binnen de wensen van de klant toch een haalbaar concept op kunnen leveren
+3. Conceptingmethodes bekijken
+4. Met design science een concept kunnen ontwikkelen
+5. Vanuit testing een concept kunnen herzien
+
 ### 2.2 Bewijsvoering
+
+**Leerdoel 1, 2, 3, 4 en 5**
+
+1. Er zijn grote veranderingen binnen het concept geweest door stakeholders die aanpassingen wilden en tests die roet in het eten gooiden.  
+   *Zie `competenties/Research/Iteratie Rapport - Sweet.pdf` > Iteratie 01 > 6. Reflect*  
+   *Geeft inzicht in hoe het eerste idee is veranderd en de eerste iteratie is gekomen*
+2. Sinds het gesprek met de NAM over de conceptvisualisatie van 4 november is het concept weer een beetje veranderd. Er werd nu gewerkt vanuit cases ter voorbereiding van een vergadering. De flow ziet er als volgt uit:  
+   *Zie `competenties/Concepting/ipad Workflow.jpg`*
+3. Tijdens de brainstorm sessie van het eerste concept hielden we ons vast aan een aantal regels van concept7:
+   *[brainstormen-een-must-voor-ieder-project/](http://www.concept7.nl/brainstormen-een-must-voor-ieder-project/)*
 
 
 ## 3. Design - 3E
