@@ -11,11 +11,11 @@ Het was even zweten maar uiteindelijk is het wel wat geworden. Het bewijs vind j
 
 ## Competentie matrix
 
-|Competentie|punten|
-|--|--|
-|Research|3G|
-|Concepting|3G|
-|Design|3E|
-|Production|6G|
-|Teamwork|3G|
+| Competentie | punten |
+| --- | --- |
+| Research | 3G |
+| Concepting | 3G |
+| Design | 3E |
+| Production | 6G |
+| Teamwork | 3G |
 
