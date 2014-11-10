@@ -42,7 +42,8 @@ Tijdsinvestering: ~ 30 uren
 2. Sinds het gesprek met de NAM over de conceptvisualisatie van 4 november is het concept weer een beetje veranderd. Er werd nu gewerkt vanuit cases ter voorbereiding van een vergadering. De flow ziet er als volgt uit:  
    *Zie `competenties/Concepting/ipad Workflow.jpg`*
 3. Tijdens de brainstorm sessie van het eerste concept hielden we ons vast aan een aantal regels van concept7:  
-   *[brainstormen-een-must-voor-ieder-project/](http://www.concept7.nl/brainstormen-een-must-voor-ieder-project/)*
+   *[brainstormen-een-must-voor-ieder-project/](http://www.concept7.nl/brainstormen-een-must-voor-ieder-project/)*  
+   *Zie competenties/Contepting/conceptingregels.jpg*
 
 
 ## 3. Design - 3E
