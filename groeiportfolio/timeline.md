@@ -115,6 +115,8 @@
 	- tegen problemen aangelopen met api model relaties
 	- problemen met conventies in Backbone
 - In de programmeercommunity een presentatie gegeven over Yeoman en Bespoke
+- Presentatie voorbereiden maandmeting Peperzaken
+- Uiteten met Peperzaken en Team
 
 ## week 8 | 3 - 7 nov
 
@@ -127,5 +129,3 @@
 - Tutsplus courses
 	-  Hands-on Angular
 - Backbone relational-model uitgezocht en geïmplementeerd
-
-
