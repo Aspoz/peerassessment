@@ -19,3 +19,8 @@ Het was even zweten maar uiteindelijk is het wel wat geworden. Het bewijs van he
 | Production | 6G |
 | Teamwork | 3G |
 
+
+## Impressie van de omstandigheden
+
+![Lekker bezig](diehard1.jpg)
+![Bijna 22:00](diehard2.jpg)
