@@ -22,5 +22,5 @@ Het was even zweten maar uiteindelijk is het wel wat geworden. Het bewijs van he
 
 ## Impressie van de omstandigheden
 
-![Lekker bezig](diehard1.jpg)
-![Bijna 22:00](diehard2.jpg)
+![Bijna 22:00](https://raw.githubusercontent.com/Aspoz/peerassessment/master/diehard2.JPG)
+![Lekker bezig](https://raw.githubusercontent.com/Aspoz/peerassessment/master/diehard1.JPG)
