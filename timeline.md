@@ -16,17 +16,18 @@
 ## week 1 | 15 - 19 sept
 
 - Gesprek met de opdrachtgever - Dirk Jan
-- strategic intake (wensen besproken)
+- Strategic intake (wensen besproken)
 - Stakeholderanalyse
 - Over een productstatement gebrainstormd
 - Kennis gemaakt met de projectgroep en samen een activiteit ondernomen
-- aanwezig bij de programmeer community
-- mentorgesprek
+- Aanwezig bij de programmeer community
+- Mentorgesprek
 - Colleges gevolgd
 	- App development (Swift)
 	- Visual Design
-- aanwezig bij de programmeer community
+- Aanwezig bij de programmeer community
 - Swift Tech Talks bekeken ( apple wwdc )
+- Blog opgezet met [Ghost](https://ghost.org/)
 - [blogpost](http://blog.teamsweet.nl/een-rustige-start/)
 
 ## week 2 | 22 - 26 sept
@@ -39,30 +40,30 @@
 	- De eindgebruiker
 	- Visual design
 	- webProgrammeren
-- stagevoorlichting geweest
-- eerste tutorgesprek
+- Stagevoorlichting geweest
+- Eerste tutorgesprek
 - Samen naar groningen.rb geweest
-- aanwezig bij de programmeer community
+- Aanwezig bij de programmeer community
 - [blogpost](http://blog.teamsweet.nl/de-kennismaking/)
 
 ## week 3 | 29 sept - 03 okt
 
 - Kritisch beoordelen van huidig concept
-- user stories bedenken
-- user stories prioriseren in sprints
-- consult gehad met Karsten, voornamelijk technisch
-- consult gehad met Huibert, verduidelijking van het concept / scope
+- User stories bedenken
+- User stories prioriseren in sprints
+- Consult gehad met Karsten, voornamelijk technisch
+- Consult gehad met Huibert, verduidelijking van het concept / scope
 - Scope verkleind (back to basic)
-- aanwezig bij de programmeer community
+- Aanwezig bij de programmeer community
 - [blogpost](http://blog.teamsweet.nl/sprinten-in-de-scrum/)
 
 ## week 4 | 6 - 10 okt
 
-- versimpelde ERD gemaakt, zodat er iets simpels staat waar bestanden doormiddel van een api kunnen worden opgeslagen
+- Versimpelde ERD gemaakt, zodat er iets simpels staat waar bestanden doormiddel van een api kunnen worden opgeslagen
 - Tutorials gedaan om `Python` & `Django` beter te begrijpen
-- onderzocht naar welke frameworks er zijn in python om makkelijk en snel een api neer te zetten
+- Onderzocht naar welke frameworks er zijn in python om makkelijk en snel een api neer te zetten
 - Api gemaakt met `Python` in `Django REST Framework`
-- in de programmeer community een cursus basis `HTML`/`CSS` gegeven
+- In de programmeer community een cursus basis `HTML`/`CSS` gegeven
 - Samen met Dirk Sierd college `HTML`/`CSS` voorbereid 
 - Colleges
 	- Visual design
@@ -73,28 +74,32 @@
 ## week 5 | 13 - 17 okt
 
 - Herfstvakantie
-- dinsdag aanwezig bij Peperzaken
+- Dinsdag aanwezig bij Peperzaken
 - Scope nog verder verkleind naar aanleiding van feedback test
 - Keynote party georganiseerd in het Launch Cafe
-- groepsactiviteit
+- Groepsactiviteit
 - [blogpost](http://blog.teamsweet.nl/nerds-and-bars/)
 
 ## week 6 | 20 - 24 okt
 
-- testdag nagelopen
+- Testdag nagelopen
 - Onenigheid over verloop van zaken in het project
 	- Afspraak dat het professioneler werkhouding en bruikbaardere feedback gegeven moet worden
-- userstories en doelen stellen voor nieuwe sprint
+- Userstories en doelen stellen voor nieuwe sprint
 - begin gemaakt aan technisch ontwerp
 - ERD uitgewerkt
 - College webprogrammeren
-- onderzoek naar verschillende javascript frameworks
+- Onderzoek naar verschillende javascript frameworks
 	- Angular
 	- Backbone
 	- Ember
-- aanwezig bij de programmeer community
+- Aanwezig bij de programmeer community
 - Mentorgesprek met Dirk Sierd
-- begonnen met Rails Api voor Jordi
+- Begonnen met Rails Api voor Jordi
+- Teamsweet.nl gerealiseerd
+	- Yeoman | generator-webapp
+	- Animate.css
+- Animaties toegepast doormiddel van javascript en css
 
 ## week 7 | 27 - 31 okt
 
@@ -107,6 +112,7 @@
 - In Backbone begonnen frontend te maken
 	- tegen problemen aangelopen met api model relaties
 	- problemen met conventies in Backbone
+- In de programmeercommunity een presentatie gegeven over Yeoman en Bespoke
 
 ## week 8 | 3 - 7 nov
 
