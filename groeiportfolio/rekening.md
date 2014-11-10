@@ -37,13 +37,13 @@ Tijdsinvestering: ~ 30 uren
 **Leerdoel 1, 2, 3, 4 en 5**
 
 1. Er zijn grote veranderingen binnen het concept geweest door stakeholders die aanpassingen wilden en tests die roet in het eten gooiden.  
-   *Zie `competenties/Research/Iteratie Rapport - Sweet.pdf` > Iteratie 01 > 6. Reflect*  
+   *Zie `competenties/Research/Iteratie Rapport - Sweet.pdf > Iteratie 01 > 6. Reflect`*  
    *Geeft inzicht in hoe het eerste idee is veranderd en de eerste iteratie is gekomen*
 2. Sinds het gesprek met de NAM over de conceptvisualisatie van 4 november is het concept weer een beetje veranderd. Er werd nu gewerkt vanuit cases ter voorbereiding van een vergadering. De flow ziet er als volgt uit:  
    *Zie `competenties/Concepting/ipad Workflow.jpg`*
 3. Tijdens de brainstorm sessie van het eerste concept hielden we ons vast aan een aantal regels van concept7:  
    *[brainstormen-een-must-voor-ieder-project/](http://www.concept7.nl/brainstormen-een-must-voor-ieder-project/)*  
-   *Zie competenties/Contepting/conceptingregels.jpg*
+   *Zie `competenties/Contepting/conceptingregels.jpg`*
 
 
 ## 3. Design - 3E
