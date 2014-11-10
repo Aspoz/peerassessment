@@ -4,25 +4,20 @@
 
 Tijdsinvestering: ~ 25 uren
 
-### 1.1 Leerdoelen
+### 1.1 Leerdoelen:
 
-1. Doormiddel van Design Science tot een concept komen wat getest en uitgevoerd kan worden.
-2. Tijdig documenteren zodat er aan het einde niet een berg overblijft
+1. Alleen onderzoek kunnen toepassen dat van belang is
+2. Design Science principles kennen
+3. Design Science kunnen toepassen en kunnen herkennen binnen een project
 
 ### 1.2 Bewijsvoering
 
-**Leerdoel 1:**
+**Leerdoel 1, 2 en 3:**
 
-1. Ik heb iets gedaan
-   *[link](vimeo)*
-   *zie tijdlijn week xx*
-
-2. asdasd
-
-**Leerdoel 2:**
-
-1. asdasd
-   asdasd
+1. Begonnen met een idee dat vanuit de eerste ‘strategic intake’ is ontstaan, waarna hieruit een concept vloeide. Hieruit ontstonden een aantal vragen die beantwoord moesten worden om het concept goed te kunnen uitwerken.  
+   *[http://i.imgur.com/XUBjcHu.png](http://i.imgur.com/XUBjcHu.png)*
+2. Nadat de vragen beantwoord werden door de NAM is het concept verder uitgewerkt en is hij door de eerste validatie ronde heen gekomen. Waarna hieruit de eerste iteratie uit voortvloeide.  
+   *Zie `Competenties/Research/Iteratie Rapport - Sweet.pdf`*
 
 
 ## 2. Concepting - 3G
