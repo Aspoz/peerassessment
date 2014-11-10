@@ -102,6 +102,8 @@
 	- Yeoman | generator-webapp
 	- Animate.css
 - Animaties toegepast doormiddel van javascript en css
+- Peerprogramming met Boyd van sinterklaas lootjes in Nodejs
+- Api course van zapier gevolgd
 
 ## week 7 | 27 - 31 okt
 
