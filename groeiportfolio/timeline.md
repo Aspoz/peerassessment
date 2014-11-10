@@ -1,3 +1,5 @@
+# Timeline
+
 ## week -1 | 1 - 5 sept
 
 - Elke dag aanwezig geweest bij startweek
@@ -64,10 +66,10 @@
 - Onderzocht naar welke frameworks er zijn in python om makkelijk en snel een api neer te zetten
 - Api gemaakt met `Python` in `Django REST Framework`
 - In de programmeer community een cursus basis `HTML`/`CSS` gegeven
-- Samen met Dirk Sierd college `HTML`/`CSS` voorbereid 
+- Samen met Dirk Sierd college `HTML`/`CSS` voorbereid
 - Colleges
 	- Visual design
-	- Webprogrammeren 
+	- Webprogrammeren
 - [blogpost](http://blog.teamsweet.nl/gotta-catch-em-all/)
 - Introductie met JIRA projectmanagement tool
 
@@ -107,7 +109,7 @@
 	- Hands on Ember
 	- Connected to the Backbone
 	- Advanced Backbone Patterns and Techniques
-	- Backbone on Rails 
+	- Backbone on Rails
 - Besloten frontend in Backbone te maken
 - In Backbone begonnen frontend te maken
 	- tegen problemen aangelopen met api model relaties
