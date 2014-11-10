@@ -11,6 +11,7 @@
 - Teamleden leren gekeken
 - Keynote party georganiseerd, pizza gegeten, etc.
 - 3JO met de nieuwe projectgroep
+- ishetdesignalaf.nl gemaakt
 
 ## week 1 | 15 - 19 sept
 
@@ -109,6 +110,7 @@
 
 ## week 8 | 3 - 7 nov
 
+- Gesprek met de NAM over de conceptvisualisatie en verduidelijking van workflow
 - Begin met Harvest app om beter te passen binnen de Peperzaken workflow
 - ERD aangepast naar nieuwe scope project
 - Begonnen met Technisch ontwerp
