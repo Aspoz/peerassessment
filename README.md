@@ -1,6 +1,6 @@
 # Readme
 
-Het was even zweten maar uiteindelijk is het wel wat geworden. Het bewijs vind je [hier](https://vimeo.com/111442609).
+Het was even zweten maar uiteindelijk is het wel wat geworden. Het bewijs van het goed bezig zijn vind je [hier](https://vimeo.com/111442609).
 
 **Wat is aanwezig:**
 
