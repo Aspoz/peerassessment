@@ -2,7 +2,7 @@
 
 ## 1. Research - 3G
 
-Tijdsinvestering: ~25 uren
+Tijdsinvestering: ~ 25 uren
 
 ### 1.1 Leerdoelen
 
@@ -27,7 +27,7 @@ Tijdsinvestering: ~25 uren
 
 ## 2. Concepting - 3G
 
-Tijdsinvestering: ~30 uren
+Tijdsinvestering: ~ 30 uren
 
 ### 2.1 Leerdoelen
 
@@ -36,7 +36,7 @@ Tijdsinvestering: ~30 uren
 
 ## 3. Design - 3E
 
-Tijdsinvestering: ~20 uren
+Tijdsinvestering: ~ 20 uren
 
 ### 3.1 Leerdoelen
 
@@ -71,7 +71,7 @@ Tijdsinvestering: ~20 uren
 
 ## 4. Production - 6G
 
-Tijdsinvestering: ~60 uren
+Tijdsinvestering: ~ 85 uren
 
 ### 4.1 Leerdoelen
 
@@ -146,7 +146,7 @@ Tijdsinvestering: ~60 uren
 
 ## 5. Teamwork - 3G
 
-tijdsinvestering: ~30 uren
+tijdsinvestering: ~ 30 uren
 
 ### 5.1 Leerdoelen
 
